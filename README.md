@@ -8,10 +8,10 @@ https://teams.microsoft.com/blablabla
 
 # Day 1 : 
 * SQL licensing :
-    Time : 3:00 CET
-  Duration : 30 minutes
-  Presenter : John Doe
-  ![image](https://github.com/user-attachments/assets/791cefe5-1892-4819-bf3e-5eafe7bd6479)
+  * Time : 3:00 CET
+  * Duration : 30 minutes
+  * Presenter : John Doe
+  * ![image](https://github.com/user-attachments/assets/791cefe5-1892-4819-bf3e-5eafe7bd6479)
 
 * Add / Remove nodes + SSIS node : Thomas 60 minutes
     new release of infrastructure scripts out for January (maybe)
