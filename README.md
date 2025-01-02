@@ -3,8 +3,12 @@ A community led virtual event to share knowledge about Dynamics365 On-Premise ak
 
 ![image](https://github.com/user-attachments/assets/b58a86f6-8044-468d-a4c9-854f7a6a6185)
 
-Unique Teams link for every session : 
-https://teams.microsoft.com/blablabla
+Unique Teams link for every session : you can find it on Yammer
+
+##### Table of Contents  
+[Headers](# Session 1)  
+[Emphasis](#emphasis)  
+
 
 # Table of Contents
 1. [Session 1 : All about LBD Certificates](#Session 1)
@@ -14,6 +18,7 @@ https://teams.microsoft.com/blablabla
 5. [Session 5 : Azure DevOps Build Machine CI/CD Pipeline for LBD](#Session 5)
 6. [Session 6 : LBD Diagnostics and General Troubleshooting](#Session 6)
 
+   
 # Session 1: 
 All about LBD Certificates
 
