@@ -8,15 +8,15 @@ Unique Teams link for every session : you can find it on Yammer
  
 ##### Table of Contents 
 
-[Session 1 : All about LBD Certificates](#Session-1)
+[Session 1 : All about LBD Certificates](#session-1--all-about-lbd-certificates)
 
-[Session 2 : Scaling LBD Nodes](#Session-2)
+[Session 2 : Scaling LBD Nodes](#session-2---scaling-lbd-nodes)
 
-[Session 3 : SQL Server Tuning for LBD](#Session-3)
+[Session 3 : SQL Server Tuning for LBD](#session-3--sql-server-tuning-for-lbd)
 
-[Session 4 : LBD Architecture Round Table](#Session-4)
+[Session 4 : LBD Architecture Round Table](#session-4--lbd-architecture-round-table)
 
-[Session 5 : Azure DevOps Build Machine CI/CD Pipeline for LBD](#Session-5)
+[Session 5 : Azure DevOps Build Machine CI/CD Pipeline for LBD](#session-5--azure-devops-build-machine-cicd-pipeline-for-lbd)
 
 [Session 6 : LBD Diagnostics and General Troubleshooting](#Session-6)
 
@@ -95,7 +95,7 @@ Date\Time: February 11th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
 
 Session Time: 30-45mins
 
-Presenter: Simon Poidevin/ Murat?
+Presenter: Murat?
 
 Topics:
 
@@ -103,8 +103,7 @@ Topics:
 
  
 
-# Session 6
-LBD Diagnostics and General Troubleshooting
+# Session 6 : LBD Diagnostics and General Troubleshooting
 
 Date\Time: February 12th, 2025 – 10am US EST (4pm CET, 3pm GMT, 8:30pm IST)
 
