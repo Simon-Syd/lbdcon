@@ -6,38 +6,114 @@ A community led virtual event to share knowledge about Dynamics365 On-Premise ak
 Unique Teams link for every session : 
 https://teams.microsoft.com/blablabla
 
-# Day 1 : 
-* SQL licensing :
-  * Time : 3:00 CET
-  * Duration : 30 minutes
-  * Presenter : John Doe
+# Table of Contents
+1. [Session 1 : All about LBD Certificates](#Session 1)
+2. [Session 2 : Scaling LBD Nodes](#Session 2)
+3. [Session 3 : SQL Server Tuning for LBD](#Session 3)
+4. [Session 4 : LBD Architecture Round Table](#Session 4)
+5. [Session 5 : Azure DevOps Build Machine CI/CD Pipeline for LBD](#Session 5)
+6. [Session 6 : LBD Diagnostics and General Troubleshooting](#Session 6)
+
+# Session 1: 
+All about LBD Certificates
+
+  * Date\Time : February 3rd, 2025 – 10am US EST (4pm CET, 3pm GMT, 8:30pm IST)
+  * Session Time : 45-60 minutes
+  * Presenter : Oscar Faixat Llanas
   * ![image](https://github.com/user-attachments/assets/791cefe5-1892-4819-bf3e-5eafe7bd6479)
 
-* Add / Remove nodes + SSIS node : Thomas 60 minutes
-    new release of infrastructure scripts out for January (maybe)
 
-* SQL Server maintenance and tuning for performance :
-    Road's tool. available. 1 hour + Q/A 30 minutes
+## Topics:
 
+* Changes around Local Agent certificates
+* Moving to common name certs
+* Certificate rotation
 
-# Day 2 :
+ 
 
-* Round table architecture : Simon ?
-    Thomas nervous because people will take this out of the box. we need to speak about general architecture stuff 30 minutes Q/A, SSIS dedicated node or SSIS on AOS ? 1 SSRS or 2 ? HA for SQL ? File server ? 2 or 3 ADFS etc ... ?
-    discussion rather than best practice rename MERGE Deploying a new environment : Simon
+# Session 2
+Scaling LBD Nodes
 
-* CERTS : 45 minutes + 15 minutes Q/A
+Date\Time: February 4th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
 
-    Moving to common name certs Oscar
-    Changes arround LA (1 cert per env)
-    Certificate Rotation : Simon Oscar
+Session Time: 45-60 minutes
 
-* Build Machine CI/CD Pipeline : ask Murat timing, maybe 30 minutes + 15 minutes Q/A ?
+Presenter: Thomas Treen
 
+Topics:
 
-# Day 3 : 
-* General troubleshooting & Diagnostic : Round Session 60 minutes 
-* DR environment deployment : 30 minutes
-* PowerApps & PowerBI Integration : 30 minutes
-    Possibly Lester a little bit
-    we already integrated LBD with D365 Customer Engagement so we can help
+·         New infrastructure scripts to manage nodes
+
+·         How to add and remove nodes to scale environments
+
+ 
+
+# Session 3
+SQL Server Tuning for LBD
+
+Date\Time: February 5th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
+
+Session Time: 60 minutes
+
+Presenter: Rod Hansen (TBC)
+
+Topics:
+
+·         Dynamics Performance Analyzer
+
+·         Maintenance and Tuning
+
+ 
+
+# Session 4
+LBD Architecture Round Table
+
+Date\Time: February 6th, 2025 – 10am US EST (4pm CET, 3pm GMT, 8:30pm IST)
+
+Session Time: 60 minutes
+
+Presenter(s): Oscar Faixat Llanas, Thomas Treen
+
+Topics:
+
+·         General discussion on architecture
+
+·         Disaster Recovery
+
+·         Deploying environments
+
+ 
+
+ 
+
+# Session 5
+Azure DevOps Build Machine CI/CD Pipeline for LBD
+
+Date\Time: February 11th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
+
+Session Time: 30-45mins
+
+Presenter: Simon Poidevin/ Murat?
+
+Topics:
+
+·         Setting and configuring an Azure DevOps Build Machine CI/CD Pipeline
+
+ 
+
+# Session 6
+LBD Diagnostics and General Troubleshooting
+
+Date\Time: February 12th, 2025 – 10am US EST (4pm CET, 3pm GMT, 8:30pm IST)
+
+Session Time: 60mins
+
+Presenter: Oscar Faixat Llanas
+
+Topics:
+
+·         Diagnostics Scripts
+
+·         General Troubleshooting
+
+ 
