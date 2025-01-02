@@ -26,7 +26,7 @@ Unique Teams link for every session : you can find it on Yammer
   * 📅 Date\Time : **February 3rd**, 2025 – 10am US EST (4pm CET, 3pm GMT, 8:30pm IST)
   * Session Time : 45-60 minutes
   * 🎙️ Presenter : Oscar Faixat Llanas
-  * ![image]([https://github.com/user-attachments/assets/791cefe5-1892-4819-bf3e-5eafe7bd6479](https://mugshot0.assets-yammer.com/mugshot/images/MmBrbwHSJNc64NzPcWbrZX60Q4BklKJ6_f8948e64-af30-480b-a1b3-cbca60f4b130?P1=1735816617&P2=104&P3=1&P4=egUnAsu53TC1HbfDYem6gHBYT9-_zKBberTMtcZFgzDX1D-E4A4EqTtVZlDnr3wH6mrqMtqW7BIlOB7K-T53aW--UBxl5IJMpOIYW1-XZN3nVRdBmjaE205N85tTLgC6nuoYdJ7jbEtzbdijeUMOi35FyBquwMuz5awS8ReWnkLRBo0SUm9xr8pJ-jc_Yn7qGUVLoK78k_cZ9QXwJjOMUo5rh-s8wDbwRS4Fnnvnjdq2yiQapZV3d0Gsad1X4TVc2heQ-AeYYNJ5Ofv4HpxJr_uuv7w7ffy0DHDxY6ZFYk3114IFpppXrfOOZ6rtkPhH3furp7_ZanZkY-UuwjGDSA&size=75x75))
+  * ![image](https://mugshot0.assets-yammer.com/mugshot/images/MmBrbwHSJNc64NzPcWbrZX60Q4BklKJ6_f8948e64-af30-480b-a1b3-cbca60f4b130?P1=1735816617&P2=104&P3=1&P4=egUnAsu53TC1HbfDYem6gHBYT9-_zKBberTMtcZFgzDX1D-E4A4EqTtVZlDnr3wH6mrqMtqW7BIlOB7K-T53aW--UBxl5IJMpOIYW1-XZN3nVRdBmjaE205N85tTLgC6nuoYdJ7jbEtzbdijeUMOi35FyBquwMuz5awS8ReWnkLRBo0SUm9xr8pJ-jc_Yn7qGUVLoK78k_cZ9QXwJjOMUo5rh-s8wDbwRS4Fnnvnjdq2yiQapZV3d0Gsad1X4TVc2heQ-AeYYNJ5Ofv4HpxJr_uuv7w7ffy0DHDxY6ZFYk3114IFpppXrfOOZ6rtkPhH3furp7_ZanZkY-UuwjGDSA&size=75x75)
 
 
 ## Topics:
