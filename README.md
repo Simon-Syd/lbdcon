@@ -9,11 +9,16 @@ Unique Teams link for every session : you can find it on Yammer
 ##### Table of Contents 
 
 [Session 1 : All about LBD Certificates](#Session-1)
-[Session 2 : Scaling LBD Nodes](#Session 2)
-[Session 3 : SQL Server Tuning for LBD](#Session 3)
-[Session 4 : LBD Architecture Round Table](#Session 4)
-[Session 5 : Azure DevOps Build Machine CI/CD Pipeline for LBD](#Session 5)
-[Session 6 : LBD Diagnostics and General Troubleshooting](#Session 6)
+
+[Session 2 : Scaling LBD Nodes](#Session-2)
+
+[Session 3 : SQL Server Tuning for LBD](#Session-3)
+
+[Session 4 : LBD Architecture Round Table](#Session-4)
+
+[Session 5 : Azure DevOps Build Machine CI/CD Pipeline for LBD](#Session-5)
+
+[Session 6 : LBD Diagnostics and General Troubleshooting](#Session-6)
 
    
 # Session 1: 
