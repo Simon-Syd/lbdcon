@@ -18,7 +18,7 @@ Unique Teams link for every session : you can find it on Yammer
 
 [Session 5 : Azure DevOps Build Machine CI/CD Pipeline for LBD](#session-5--azure-devops-build-machine-cicd-pipeline-for-lbd)
 
-[Session 6 : LBD Diagnostics and General Troubleshooting](#Session-6)
+[Session 6 : LBD Diagnostics and General Troubleshooting](#session-6--lbd-diagnostics-and-general-troubleshooting)
 
    
 # Session 1 : All about LBD Certificates
@@ -39,22 +39,25 @@ Unique Teams link for every session : you can find it on Yammer
 
 # Session 2  : Scaling LBD Nodes
 
-Date\Time: February 4th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
+  * 📅 Date\Time : February 4th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
+  * Session Time : 45-60 minutes
+  * 🎙️ Presenter : Thomas Treen
+  * ![image](https://github.com/user-attachments/assets/791cefe5-1892-4819-bf3e-5eafe7bd6479)
 
-Session Time: 45-60 minutes
 
-Presenter: Thomas Treen
+## Topics:
 
-Topics:
-
-·         New infrastructure scripts to manage nodes
-
-·         How to add and remove nodes to scale environments
+* New infrastructure scripts to manage nodes
+* How to add and remove nodes to scale environments
 
  
 
 # Session 3 : SQL Server Tuning for LBD
 
+  * 📅 Date\Time : February 4th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
+  * Session Time : 45-60 minutes
+  * 🎙️ Presenter : Thomas Treen
+  * ![image](https://github.com/user-attachments/assets/791cefe5-1892-4819-bf3e-5eafe7bd6479)
 Date\Time: February 5th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
 
 Session Time: 60 minutes
@@ -71,6 +74,12 @@ Topics:
 
 # Session 4 : LBD Architecture Round Table
 
+  * 📅 Date\Time : February 4th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
+  * Session Time : 45-60 minutes
+  * 🎙️ Presenter : Thomas Treen
+  * ![image](https://github.com/user-attachments/assets/791cefe5-1892-4819-bf3e-5eafe7bd6479)
+
+  * 
 Date\Time: February 6th, 2025 – 10am US EST (4pm CET, 3pm GMT, 8:30pm IST)
 
 Session Time: 60 minutes
@@ -91,30 +100,26 @@ Topics:
 
 # Session 5 : Azure DevOps Build Machine CI/CD Pipeline for LBD
 
-Date\Time: February 11th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
+  * 📅 Date\Time : February 11th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
+  * Session Time : 30-45 minutes
+  * 🎙️ Presenter : Murat Vezir
+  * ![image](https://github.com/user-attachments/assets/791cefe5-1892-4819-bf3e-5eafe7bd6479)
 
-Session Time: 30-45mins
+## Topics:
 
-Presenter: Murat?
-
-Topics:
-
-·         Setting and configuring an Azure DevOps Build Machine CI/CD Pipeline
+* Setting and configuring an Azure DevOps Build Machine CI/CD Pipeline
 
  
 
 # Session 6 : LBD Diagnostics and General Troubleshooting
 
-Date\Time: February 12th, 2025 – 10am US EST (4pm CET, 3pm GMT, 8:30pm IST)
+  * 📅 Date\Time : February 12th, 2025 – 10am US EST (4pm CET, 3pm GMT, 8:30pm IST)
+  * Session Time : 60 minutes
+  * 🎙️ Presenter : Oscar Faixat Llanas
+  * ![image](https://github.com/user-attachments/assets/791cefe5-1892-4819-bf3e-5eafe7bd6479)
 
-Session Time: 60mins
 
-Presenter: Oscar Faixat Llanas
+## Topics:
 
-Topics:
-
-·         Diagnostics Scripts
-
-·         General Troubleshooting
-
- 
+* Diagnostics Scripts
+* General Troubleshooting
