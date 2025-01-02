@@ -5,13 +5,10 @@ A community led virtual event to share knowledge about Dynamics365 On-Premise ak
 
 Unique Teams link for every session : you can find it on Yammer
 
-##### Table of Contents  
-[Headers](# Session 1)  
-[Emphasis](#emphasis)  
+ 
+##### Table of Contents 
 
-
-# Table of Contents
-[Session 1 : All about LBD Certificates](#Session 1)
+[Session 1 : All about LBD Certificates](#Session-1)
 [Session 2 : Scaling LBD Nodes](#Session 2)
 [Session 3 : SQL Server Tuning for LBD](#Session 3)
 [Session 4 : LBD Architecture Round Table](#Session 4)
