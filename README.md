@@ -24,9 +24,9 @@ Unique Teams link for every session : you can find it on Yammer
 # Session 1: 
 All about LBD Certificates
 
-  * Date\Time : February 3rd, 2025 – 10am US EST (4pm CET, 3pm GMT, 8:30pm IST)
+  * 📅 Date\Time : February 3rd, 2025 – 10am US EST (4pm CET, 3pm GMT, 8:30pm IST)
   * Session Time : 45-60 minutes
-  * Presenter : Oscar Faixat Llanas
+  * 🎙️ Presenter : Oscar Faixat Llanas
   * ![image](https://github.com/user-attachments/assets/791cefe5-1892-4819-bf3e-5eafe7bd6479)
 
 
