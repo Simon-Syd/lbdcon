@@ -21,8 +21,7 @@ Unique Teams link for every session : you can find it on Yammer
 [Session 6 : LBD Diagnostics and General Troubleshooting](#Session-6)
 
    
-# Session 1: 
-All about LBD Certificates
+# Session 1 : All about LBD Certificates
 
   * 📅 Date\Time : February 3rd, 2025 – 10am US EST (4pm CET, 3pm GMT, 8:30pm IST)
   * Session Time : 45-60 minutes
@@ -38,8 +37,7 @@ All about LBD Certificates
 
  
 
-# Session 2
-Scaling LBD Nodes
+# Session 2  : Scaling LBD Nodes
 
 Date\Time: February 4th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
 
@@ -55,8 +53,7 @@ Topics:
 
  
 
-# Session 3
-SQL Server Tuning for LBD
+# Session 3 : SQL Server Tuning for LBD
 
 Date\Time: February 5th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
 
@@ -72,8 +69,7 @@ Topics:
 
  
 
-# Session 4
-LBD Architecture Round Table
+# Session 4 : LBD Architecture Round Table
 
 Date\Time: February 6th, 2025 – 10am US EST (4pm CET, 3pm GMT, 8:30pm IST)
 
@@ -93,8 +89,7 @@ Topics:
 
  
 
-# Session 5
-Azure DevOps Build Machine CI/CD Pipeline for LBD
+# Session 5 : Azure DevOps Build Machine CI/CD Pipeline for LBD
 
 Date\Time: February 11th, 2025 – 9am US EST (3pm CET, 2pm GMT, 7:30pm IST)
 
